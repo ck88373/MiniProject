@@ -1,2 +1,2 @@
 # MiniProject
-A variety of Mini Project
+A variety of Mini Projects
